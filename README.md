@@ -86,5 +86,5 @@ Here’s a ready-made template designed for BCA  students:
 
 ---
 
-> 🔥 Made with ❤️ by name – Keep Learning, Keep Coding!
+> 🔥 Made with ❤️ by zaina – Keep Learning, Keep Coding!
 
